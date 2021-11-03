@@ -4,6 +4,7 @@
 @@||daffodilvarsity.edu.bd^$important
 @@||diu.edu.bd^$important
 @@||i.ytimg.com^$important
+@@||reddit.com^$important
 # List of Bangladeshi Banks
 @@||bb.org.bd^$important
 @@||sonalibank.com.bd^$important
