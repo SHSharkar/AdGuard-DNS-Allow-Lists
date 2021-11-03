@@ -1,6 +1,7 @@
 @@||fonts.gstatic.com^$important
 @@||graph.facebook.com^$important
 @@||mqtt-mini.facebook.com^$important
+@@||edge-mqtt.facebook.com^$important
 @@||daffodilvarsity.edu.bd^$important
 @@||diu.edu.bd^$important
 @@||i.ytimg.com^$important
