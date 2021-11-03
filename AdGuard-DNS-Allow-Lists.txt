@@ -1,0 +1,6 @@
+@@||fonts.gstatic.com^
+@@||graph.facebook.com^
+@@||mqtt-mini.facebook.com^
+@@||daffodilnet.com^
+@@||daffodilvarsity.edu.bd^
+@@||diu.edu.bd^
